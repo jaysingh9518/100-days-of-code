@@ -51,4 +51,10 @@
 
 **Link(s) to work**: [Click me](https://jaysingh9518.github.io/100daysofcode)
 
+### Day 8: November 15, 2021
+**Today's Progress**: Worked on a template about CSS Animation.
+
+**Thoughts**: .
+
+**Link(s) to work**: [Click me](https://jaysingh9518.github.io/100daysofcode)
 
